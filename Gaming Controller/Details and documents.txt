@@ -1,0 +1,6 @@
+
+Gamepad using Arduino and mpu6050
+
+Library: https://github.com/jarzebski/Arduino-MPU6050/tree/master 
+
+Youtube Tutorial: https://www.youtube.com/watch?v=qMNp2TW69o0 
